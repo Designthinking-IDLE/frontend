@@ -1,17 +1,32 @@
-# idle
+# 디자인적 사고 IDLE
 
-A new Flutter project.
+플러터 프론트엔드 -> 백엔드
 
-## Getting Started
+## 프로젝트 개발 일정 안내 (개발 속도에 따라 변동 가능)
 
-This project is a starting point for a Flutter application.
+🗓️ 5/22(토)
+- 오늘 또는 내일 피드백 정리본 전달
+- 각 피드백에 대해 최소 1개 이상의 아이디어 제시
+- 플러터, 깃허브 설치 및 사용법 학습
 
-A few resources to get you started if this is your first Flutter project:
+🗓️ 5/23(일)
+- 오후 3시 회의
+- 프로토타입 수정
+- 주요 아이디어 방향성 확정
+  (추후 개발 과정에서 지속적으로 수정 및 발전 예정)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+🗓️ 5/24 ~ 5/31
+- 프론트엔드 개발 완료 목표
+- 백엔드 기본 기능 구현
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🗓️ 6월 초
+- 백엔드 개발 마무리
+- API 연결 및 최종 통합 완료
+
+🗓️ 최종 단계
+- 전체 기능 최종 완성
+- 시연 준비 및 테스트 진행
+
+🗓️ 6월 둘째 주
+- PPT 제작
+- 최종 발표
